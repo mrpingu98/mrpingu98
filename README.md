@@ -3,6 +3,7 @@ Manvir’s Personal project
 - https://green-bay-02bd95803.4.azurestaticapps.net/technical
 - Front-end repo: https://github.com/mrpingu98/personalProject
 - Back-end repo: https://github.com/mrpingu98/personalProjectAPI
+<br/>
 
 **Description**
 
@@ -13,9 +14,11 @@ habits such as their most played songs/artists
 users to add products to a cart
 - Admin page where admins must login to use protected add/edit/delete
 endpoints
+<br/>
 
 **Technologies Used**
 - Typescript, Javascript, C#, .NET
+<br/>
 
 **Aim of project**
 - To improve my understanding of all aspects of creating an app (front-end,
@@ -24,6 +27,7 @@ back-end, deployment)
 spare time, I’m aware that parts of my code could definitely be
 refactored/more efficient – when I have time I do try to update and clean up
 my code
+<br/>
 
 **Front-End**
 - Javascript, Typescript, MUI (Material UI)
@@ -33,6 +37,7 @@ my code
 - React Query - useQuery and useMutations to handle API requests and cache data + error handling with try/catch statements
 - Basic unit testing using Cypress
 - Connecting to Spotify API - currently using PKCE Authentication. Once login functionality has been created for the app, will switch to using oAuth2 with token authentication
+<br/>
 
 **Back-End**
 - Basics of OOP Programming
@@ -45,6 +50,7 @@ my code
 - Using swagger to test endpoints
 - Custom error messages
 - Login functionality using Microsoft.EntityFrameworkCore.Identity / authorised endpoints / oAuth2 flow. At the moment I have made one 'Admin' account for myself to add/edit/delete products for the Merchandise page 
+<br/>
 
 **Azure**
 - Front-end deployed to an Azure Web App, back-end deployed to an Azure
