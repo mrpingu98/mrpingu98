@@ -5,6 +5,12 @@ Manvir’s Personal project
 - Back-end repo: https://github.com/mrpingu98/personalProjectAPI
 <br/>
 
+**Aim of project**
+- To improve my technical skills in all aspects of creating an app (front-end,
+back-end, deployment)
+- I have independently built everything for this project 
+<br/>
+
 **Description**
 
 Created a simple website for my own self-learning. Main features include:
@@ -18,15 +24,6 @@ endpoints
 
 **Technologies Used**
 - Typescript, Javascript, C#, .NET
-<br/>
-
-**Aim of project**
-- To improve my understanding of all aspects of creating an app (front-end,
-back-end, deployment)
-- As the main aim of this project was for self-learning + working on this in my
-spare time, I’m aware that parts of my code could definitely be
-refactored/more efficient – when I have time I do try to update and clean up
-my code
 <br/>
 
 **Front-End**
